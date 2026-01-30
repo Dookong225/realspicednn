@@ -1,0 +1,13 @@
+# macOS
+.DS_Store
+
+# Python
+__pycache__/
+*.pyc
+
+# Data
+data/
+
+# Model weights
+*.pth
+*.pt
